@@ -3,3 +3,4 @@ Flask-MySQLdb
 python-dotenv
 mysql-client
 boto3
+gunicorn
